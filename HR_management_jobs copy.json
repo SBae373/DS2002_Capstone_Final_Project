@@ -1,0 +1,116 @@
+[
+	{
+		"job_id" : 1,
+		"job_title" : "Public Accountant",
+		"min_salary" : 4200.00,
+		"max_salary" : 9000.00
+	},
+	{
+		"job_id" : 2,
+		"job_title" : "Accounting Manager",
+		"min_salary" : 8200.00,
+		"max_salary" : 16000.00
+	},
+	{
+		"job_id" : 3,
+		"job_title" : "Administration Assistant",
+		"min_salary" : 3000.00,
+		"max_salary" : 6000.00
+	},
+	{
+		"job_id" : 4,
+		"job_title" : "President",
+		"min_salary" : 20000.00,
+		"max_salary" : 40000.00
+	},
+	{
+		"job_id" : 5,
+		"job_title" : "Administration Vice President",
+		"min_salary" : 15000.00,
+		"max_salary" : 30000.00
+	},
+	{
+		"job_id" : 6,
+		"job_title" : "Accountant",
+		"min_salary" : 4200.00,
+		"max_salary" : 9000.00
+	},
+	{
+		"job_id" : 7,
+		"job_title" : "Finance Manager",
+		"min_salary" : 8200.00,
+		"max_salary" : 16000.00
+	},
+	{
+		"job_id" : 8,
+		"job_title" : "Human Resources Representative",
+		"min_salary" : 4000.00,
+		"max_salary" : 9000.00
+	},
+	{
+		"job_id" : 9,
+		"job_title" : "Programmer",
+		"min_salary" : 4000.00,
+		"max_salary" : 10000.00
+	},
+	{
+		"job_id" : 10,
+		"job_title" : "Marketing Manager",
+		"min_salary" : 9000.00,
+		"max_salary" : 15000.00
+	},
+	{
+		"job_id" : 11,
+		"job_title" : "Marketing Representative",
+		"min_salary" : 4000.00,
+		"max_salary" : 9000.00
+	},
+	{
+		"job_id" : 12,
+		"job_title" : "Public Relations Representative",
+		"min_salary" : 4500.00,
+		"max_salary" : 10500.00
+	},
+	{
+		"job_id" : 13,
+		"job_title" : "Purchasing Clerk",
+		"min_salary" : 2500.00,
+		"max_salary" : 5500.00
+	},
+	{
+		"job_id" : 14,
+		"job_title" : "Purchasing Manager",
+		"min_salary" : 8000.00,
+		"max_salary" : 15000.00
+	},
+	{
+		"job_id" : 15,
+		"job_title" : "Sales Manager",
+		"min_salary" : 10000.00,
+		"max_salary" : 20000.00
+	},
+	{
+		"job_id" : 16,
+		"job_title" : "Sales Representative",
+		"min_salary" : 6000.00,
+		"max_salary" : 12000.00
+	},
+	{
+		"job_id" : 17,
+		"job_title" : "Shipping Clerk",
+		"min_salary" : 2500.00,
+		"max_salary" : 5500.00
+	},
+	{
+		"job_id" : 18,
+		"job_title" : "Stock Clerk",
+		"min_salary" : 2000.00,
+		"max_salary" : 5000.00
+	},
+	{
+		"job_id" : 19,
+		"job_title" : "Stock Manager",
+		"min_salary" : 5500.00,
+		"max_salary" : 8500.00
+	}
+]

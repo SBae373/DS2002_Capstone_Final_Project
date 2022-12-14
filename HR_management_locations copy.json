@@ -1,0 +1,58 @@
+[
+	{
+		"location_id" : 1400,
+		"street_address" : "2014 Jabberwocky Rd",
+		"postal_code" : "26192",
+		"city" : "Southlake",
+		"state_province" : "Texas",
+		"country_id" : "US"
+	},
+	{
+		"location_id" : 1500,
+		"street_address" : "2011 Interiors Blvd",
+		"postal_code" : "99236",
+		"city" : "South San Francisco",
+		"state_province" : "California",
+		"country_id" : "US"
+	},
+	{
+		"location_id" : 1700,
+		"street_address" : "2004 Charade Rd",
+		"postal_code" : "98199",
+		"city" : "Seattle",
+		"state_province" : "Washington",
+		"country_id" : "US"
+	},
+	{
+		"location_id" : 1800,
+		"street_address" : "147 Spadina Ave",
+		"postal_code" : "M5V 2L7",
+		"city" : "Toronto",
+		"state_province" : "Ontario",
+		"country_id" : "CA"
+	},
+	{
+		"location_id" : 2400,
+		"street_address" : "8204 Arthur St",
+		"postal_code" : null,
+		"city" : "London",
+		"state_province" : null,
+		"country_id" : "UK"
+	},
+	{
+		"location_id" : 2500,
+		"street_address" : "Magdalen Centre, The Oxford Science Park",
+		"postal_code" : "OX9 9ZB",
+		"city" : "Oxford",
+		"state_province" : "Oxford",
+		"country_id" : "UK"
+	},
+	{
+		"location_id" : 2700,
+		"street_address" : "Schwanthalerstr. 7031",
+		"postal_code" : "80925",
+		"city" : "Munich",
+		"state_province" : "Bavaria",
+		"country_id" : "DE"
+	}
+]
